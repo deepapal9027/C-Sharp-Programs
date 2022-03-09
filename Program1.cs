@@ -23,3 +23,12 @@ class Method
  
    }
 }
+ 
+/*
+ OUTPUT -
+ Enter the First no :5
+ Enter the second no : 5
+ result is: 10
+ 
+ */
+ 
