@@ -20,9 +20,7 @@ class Method
 }
 /*
   OUTPUT -
-  Enter the First no :45
-  Enter the second no :45
-  Result is :90
+ Number is Even
 
 */
   
