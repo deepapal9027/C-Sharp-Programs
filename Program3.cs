@@ -16,7 +16,7 @@ class Method
 }
 /*
   OUTPUT -
-  
+  Result is :200
   
 */
   
