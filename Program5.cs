@@ -14,7 +14,7 @@ class Method
 	}   
 	public static void Main(string[]args)
         {
-         string res =  checkNumber(101);
+         string res =  checkNumber(100);
          Console.WriteLine(res);		 
 		}
 }
