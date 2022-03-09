@@ -17,13 +17,14 @@ class Method
 	public static void Main(string[]args)
         {
          int num3 = process();
-         Console.Write("Result is :" +num3);		 
-		}
-}
+         Console.Write("Result is :" +num3);		   }
+       }
 /*
   OUTPUT -
-  Result is :200
-  
+  Enter the First no :45
+  Enter the second no :45
+  Result is :90
+
 */
   
   
