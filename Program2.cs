@@ -28,4 +28,6 @@ class Method
   Enter the second no :2
   result is:8
   
+  */
+  
   
